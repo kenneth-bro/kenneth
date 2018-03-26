@@ -128,6 +128,18 @@
 			<version>2.8.0</version>
 		</dependency>
 		
+		<!-- mock数据模拟 -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.github.jsonzou</groupId>
+			<artifactId>jmockdata</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+		
 		<dependency>
 			<groupId>junit</groupId>
 		    <artifactId>junit</artifactId>
